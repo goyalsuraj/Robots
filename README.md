@@ -1,2 +1,2 @@
 # Robots
-personal robots
+personal robots projects to be updated soon
